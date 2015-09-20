@@ -14,9 +14,9 @@
     <body>
         <h1>Hello World!</h1>
         
-        <h1>Marcela Monroy</h1>
-        <h1>Jhojan Rodriguez</h1>
-        <h1>Esmeralda Diaz</h1>
+        <h1>Marcela Monroy Gamboa</h1>
+        <h1>Jhojan Rodriguez Doncel</h1>
+        <h1>Esmeralda Diaz Vesga</h1>
         
     </body>
 </html>
