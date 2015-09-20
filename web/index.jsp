@@ -14,9 +14,9 @@
     <body>
         <h1>Hello World!</h1>
         
-        <h1>Marcela Monroy Gamboa cod 35038</h1>
-        <h1>Jhojan Rodriguez Doncel cod 34282</h1>
-        <h1>Esmeralda Diaz Vesga 34911</h1>
+        <h1>Marcela Monroy Gamboa     COD 35038</h1>
+        <h1>Jhojan Rodriguez Doncel   COD 34282</h1>
+        <h1>Esmeralda Diaz Vesga      COD 34911</h1>
         
     </body>
 </html>
